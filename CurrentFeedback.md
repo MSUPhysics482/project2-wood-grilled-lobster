@@ -1,1 +1,3 @@
-Nothing to see here yet.
+## HW 9and10; Score: 16/20 for both
+
+Seth, I'm glad to see that you have a good idea of what you plan to do from a nuts and bolts perspective. I'd like to see more detail on the specific models that you intend to bring into your work. I also think you have a couple of great resources in Ed and Sean. Your figure makes sense to me, but it's not really what I had in mind. I was thinking your "figure" would show the model (i.e., an explanation of the model that you are planning to use). In any event, you have a good plan. Also, I know you want to dig into this project a lot; I want to respect your time, so when you start digging into it a bit more and explaning what you are doing, I'll probably advise you to reign it in a bit. 
